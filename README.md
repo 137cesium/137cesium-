@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I'm currently working on ft_transcendence (final 42 project)<br><br>🧠 I'm currently learning C++, Flutter, Python<br><br>⚡️ Currently building a new Startup company
+👩‍💻 42 Student<br><br>🧠 Working stack: Flutter, NestJs<br><br>⚡️ Lobbi co-founder & full stack developer
 
 
 ## 🌐 Socials:
